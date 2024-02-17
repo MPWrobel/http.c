@@ -1,0 +1,12 @@
+BasedOnStyle: LLVM
+BreakBeforeBraces: Linux
+IndentWidth: 4
+TabWidth: 4
+UseTab: AlignWithSpaces
+AlwaysBreakAfterReturnType: TopLevelDefinitions
+AllowShortIfStatementsOnASingleLine: AllIfsAndElse
+AlignConsecutiveAssignments: AcrossComments
+AlignConsecutiveDeclarations: AcrossComments
+AlignArrayOfStructures: Left
+AllowShortLoopsOnASingleLine: true
+AllowShortCaseLabelsOnASingleLine: true
